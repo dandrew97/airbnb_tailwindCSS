@@ -1,4 +1,4 @@
-## Sitio web de Experiencias en Nueva York
+# Sitio web de Experiencias en Nueva York
 ¡Bienvenido al repositorio del proyecto TailwindCSS! Aquí encontrarás los archivos y estilos necesarios para el desarrollo de un sitio web que muestra experiencias y alojamientos en Nueva York.
 
 <!-- Badges  -->
