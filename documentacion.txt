@@ -1,0 +1,20 @@
+UTILIDADES DE TAILWIND CSS
+
+container= Contenedor
+mx-auto = margen margin-left and margin-right - automatica - centra el contenedor
+bg = background
+h = height - altura
+text-white = Aplica color blanco al texto 
+font-bold = Aploca negrita
+text-sm = Cambia el tamaño de la fuente hay hasta text-xl
+text-3xl = Cambia el tamaño de la fuente hay hasta text-xl
+text-2xl = Cambia el tamaño de la fuente hay hasta text-xl
+uppercase = Hace el texto mayuscula
+py = padding en el eje y - top and bottom
+px = padding en el eje x - left and right
+w = width - 1/2 --> Tomar el 50% del tamaño del contenedor padre 
+md = media querie
+mb = margin-bottom
+rounded = esquinas redondeadas 
+leading-none = Espaciado entre lineas
+
