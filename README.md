@@ -33,8 +33,8 @@ Los estilos CSS del proyecto están personalizados utilizando TailwindCSS, un fr
 Este proyecto fue desarrollado por Andrea Campos (dandrew97) como parte de un ejercicio de diseño y maquetación web.
 
 ## Contacto
-LinkedIn: Nombre del Desarrollador en LinkedIn
-Correo electrónico: Correo electrónico del Desarrollador
+LinkedIn: www.linkedin.com/in/dandrew97
+Correo electrónico: dcampos823@gmail.com
 
 ## Previsualización del Proyecto
 ![proyecto](https://github.com/dandrew97/Imagenes_CineBit/blob/main/Captura%20de%20pantalla%202024-02-09%20210800.png)
